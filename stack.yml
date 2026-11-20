@@ -2,6 +2,7 @@ name: flask
 icon: flask
 docs: https://wodby.com/docs/2.0/stacks/catalog/flask/
 title: Flask
+category: frameworks
 
 services:
 - name: flask
